@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlifMiftahulJannah_1202154342_StudyCase4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="pencari_gambar">Pencari Gambar</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+    <string name="cari_gambar">Cari Gambar</string>
+    <string name="klik_untuk_mencari_gambar">Klik untuk mencari gambar</string>
+    <string name="list_mahasiswa">List Nama Mahasiswa</string>
+</resources>
